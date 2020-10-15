@@ -5,4 +5,7 @@ This project is a code depository for paper : ["PGCD: A Position-Guided Contribu
 
 ## 1 Datasets —— text-audio level SamEval 2014
 
-## Application
+## 2 Application
+
+
+If has any question, the author email: zijian96@tongji.edu.cn :sunny:
